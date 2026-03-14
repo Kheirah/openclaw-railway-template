@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@chrysb/alphaclaw": "0.7.2-beta.5",
-    "openclaw": "2026.3.12"
+    "openclaw": "2026.3.13"
   },
   "engines": {
     "node": ">=22.12.0"
